@@ -1,6 +1,9 @@
 # UNPACK_TABLE
 Google Sheet Custom Function to Unpack Comma Separated Values in one column to multiple lines
 
+## Demo
+![](https://github.com/nyanlynntherazi/UNPACK_TABLE/blob/main/demo.gif)
+
 # How to install the script
 
 1. Create or open an existing spreadsheet in Google Sheets.
