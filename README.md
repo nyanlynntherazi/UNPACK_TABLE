@@ -26,6 +26,6 @@ The formula should be like this
 ### To update later
 
 - [x] Write Read Me 
-- [] Table Header True/False Option
-- [] To work on option to use function without averaging column
-- [] To work on Multiple Comma separated columns
+- [ ] Table Header True/False Option
+- [ ] To work on option to use function without averaging column
+- [ ] To work on Multiple Comma separated columns
