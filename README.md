@@ -23,3 +23,9 @@ Column with values to average is column E
 The formula should be like this
 =UNPACK_TABLE(A2:E10,3,5)
 
+### To update later
+
+- [x] Write Read Me 
+- [] Table Header True/False Option
+- [] To work on option to use function without averaging column
+- [] To work on Multiple Comma separated columns
