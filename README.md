@@ -8,7 +8,7 @@ Google Sheet Custom Function to Unpack Comma Separated Values in one column to m
 
 1. Create or open an existing spreadsheet in Google Sheets.
 2. Select the menu item Tools > Script editor. If you are presented with a welcome screen, click Blank Project on the left to start a new project.
-3. Delete any code in the script editor. Copy and paste the code from zlookup.gs into the script editor.
+3. Delete any code in the script editor. Copy and paste the code from UNPACK_TABLE.gs into the script editor.
 4. Select the menu item File > Save. Give the script project a name and click OK.
 5. All done! Now you can use the custom function.
 
